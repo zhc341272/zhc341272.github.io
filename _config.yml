@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hongchen Zhang`s Personal Homepage"
+title                    : "Hongchen Zhang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hongchen Zhang"
 description              : &description "A running bug"
